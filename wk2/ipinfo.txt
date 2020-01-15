@@ -1,0 +1,21 @@
+1.) dell.com IP Address: 143.166.147.101
+
+Geolocation: US (United States), TX, Texas, 78682 Round Rock
+
+2.) intel.com IP Address: 13.91.95.74
+
+Geolocation: US (United States), CA, California, 95141 San Jose
+
+3.) samsung.com IP Address: 211.45.27.231
+
+Geolocation: KR (Korea, Republic of)
+
+4.) nintendo.com IP Address: 199.227.51.53
+
+Geolocation: US (United States), WA, Washington, 98052 Redmond 
+
+5.) sony.com IP Address: 54.144.253.202
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
+
+ 

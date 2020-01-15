@@ -1,0 +1,17 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping www.google.ca -w 10
+PING www.google.ca (172.217.1.3) 56(84) bytes of data.
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=1 ttl=58 time=1.46 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=2 ttl=58 time=0.645 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=3 ttl=58 time=1.36 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=4 ttl=58 time=0.605 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=5 ttl=58 time=0.804 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=6 ttl=58 time=0.570 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=7 ttl=58 time=0.556 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=8 ttl=58 time=0.531 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=9 ttl=58 time=0.542 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=10 ttl=58 time=0.539 ms
+
+--- www.google.ca ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9151ms
+rtt min/avg/max/mdev = 0.531/0.761/1.462/0.336 ms
+

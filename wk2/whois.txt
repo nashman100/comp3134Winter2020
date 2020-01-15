@@ -1,0 +1,236 @@
+1.) Domain Name: microsoft.com
+Registry Domain ID: 2724960_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2014-10-15T04:00:12-0700
+Creation Date: 1991-05-01T21:00:00-0700
+Registrar Registration Expiration Date: 2021-05-02T21:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Microsoft Corporation
+Registrant Street: One Microsoft Way, 
+Registrant City: Redmond
+Registrant State/Province: WA
+Registrant Postal Code: 98052
+Registrant Country: US
+Registrant Phone: +1.4258828080
+Registrant Phone Ext: 
+Registrant Fax: +1.4259367329
+Registrant Fax Ext: 
+Registrant Email: email@microsoft.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Microsoft Corporation
+Admin Street: One Microsoft Way, 
+Admin City: Redmond
+Admin State/Province: WA
+Admin Postal Code: 98052
+Admin Country: US
+Admin Phone: +1.4258828080
+Admin Phone Ext: 
+Admin Fax: +1.4259367329
+Admin Fax Ext: 
+Admin Email: email@microsoft.com
+Registry Tech ID: 
+Tech Name: MSN Hostmaster
+Tech Organization: Microsoft Corporation
+Tech Street: One Microsoft Way, 
+Tech City: Redmond
+Tech State/Province: WA
+Tech Postal Code: 98052
+Tech Country: US
+Tech Phone: +1.4258828080
+Tech Phone Ext: 
+Tech Fax: +1.4259367329
+Tech Fax Ext: 
+Tech Email: email@microsoft.com
+Name Server: ns4.msft.net
+Name Server: ns3.msft.net
+Name Server: ns2.msft.net
+Name Server: ns1.msft.net
+DNSSEC: unsigned
+
+2.) Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2019-08-19T12:00:12Z
+Creation Date: 1987-02-19T00:00:00Z
+Registrar Registration Expiration Date: 2021-02-20T05:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Apple Inc.
+Registrant Street: 
+Registrant City: Cupertino
+Registrant State/Province: CA
+Registrant Postal Code: 95014
+Registrant Country: US
+Registrant Phone: +1.4089961010
+Registrant Phone Ext: 
+Registrant Fax: +1.4089741560
+Registrant Fax Ext: 
+Registrant Email: email@apple.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Apple Inc.
+Admin Street: 
+Admin City: Cupertino
+Admin State/Province: CA
+Admin Postal Code: 95014
+Admin Country: US
+Admin Phone: +1.4089961010
+Admin Phone Ext: 
+Admin Fax: +1.4089741560
+Admin Fax Ext: 
+Admin Email: email@apple.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Apple Inc.
+Tech Street: 
+Tech City: Cupertino
+Tech State/Province: CA
+Tech Postal Code: 95014
+Tech Country: US
+Tech Phone: +1.4089961010
+Tech Phone Ext: 
+Tech Fax: +1.4089741560
+Tech Fax Ext: 
+Tech Email: email@apple.com
+Name Server: a.ns.apple.com
+Name Server: b.ns.apple.com
+Name Server: c.ns.apple.com
+Name Server: d.ns.apple.com
+
+3.)Domain Name: RAZER.COM
+Registrar WHOIS Server: whois.101domain.com
+Registrar URL: https://www.101domain.com/
+Updated Date: 2019-10-31T11:22:21Z
+Creation Date: 1998-05-15T04:00:00Z
+Registrar Registration Expiration Date: 2027-05-14T04:00:00Z
+Registrar: https://www.101domain.com/
+Registrar IANA ID: 1011
+Registrar Abuse Contact Email: email@101domain.com
+Registrar Abuse Contact Phone: +1.7604448674
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Registrant Organization: Razer Computer Gaming Technology (Shanghai) Co.Ltd.
+Registrant Street: Room 604&605, Block C, Chamtime Plaza, No.3, Lane 2889 Jinke Road
+Registrant City: Shanghai
+Registrant State/Province: CN-31
+Registrant Postal Code: 201203
+Registrant Country: CN
+Registrant Phone: +86.2168585135
+Registrant Phone Ext: 
+Registrant Fax: +86.2168585110
+Registrant Fax Ext: 
+TO CONTACT REGISTRANT, COMPLETE THIS FORM: https://my.101domain.com/contact-registrant/RAZER.COM.html
+Name Server: NS2.RAZERZONE.COM
+Name Server: NS4.RAZERZONE.COM
+Name Server: NS0.RAZERZONE.COM
+Name Server: NS5.RAZERZONE.COM
+Name Server: NS1.RAZERZONE.COM
+Name Server: NS3.RAZERZONE.COM
+
+4.)Domain Name: NVIDIA.COM
+Registry Domain ID: 4076489_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2013-10-04T20:01:01Z
+Creation Date: 1993-04-20T04:00:00Z
+Registrar Registration Expiration Date: 2020-04-21T04:00:00Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: email@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Data protected, not disclosed
+Registrant Organisation: NVIDIA Corporation
+Registrant Street: 2701 San Tomas Expressway
+Registrant Street: 
+Registrant City: Santa Clara
+Registrant State/Province: CA
+Registrant Postal Code: 95050
+Registrant Country: US
+Registrant Phone: Data protected, not disclosed
+Registrant Fax: Data protected, not disclosed
+Registrant Email: email@idp.email
+Registry Admin ID: Not Available From Registry
+Admin Name: International Domain Administrator
+Admin Organisation: Safenames Ltd
+Admin Street: Safenames House, Sunrise Parkway
+Admin Street: Linford Wood
+Admin City: Milton Keynes
+Admin State/Province: Bucks
+Admin Postal Code: MK14 6LS
+Admin Country: UK
+Admin Phone: +44.1908200022
+Admin Fax: +44.1908325192
+Admin Email: email@safenames.net
+Registry Tech ID: Not Available From Registry
+Tech Name: International Domain Tech
+Tech Organisation: Safenames Ltd
+Tech Street: Safenames House, Sunrise Parkway
+Tech Street: Linford Wood
+Tech City: Milton Keynes
+Tech State/Province: Bucks
+Tech Postal Code: MK14 6LS
+Tech Country: UK
+Tech Phone: +44.1908200022
+Tech Fax: +44.1908325192
+Tech Email: email@safenames.net
+Name Server: DNS1.P09.NSONE.NET
+Name Server: DNS2.P09.NSONE.NET
+Name Server: NS5.DNSMADEEASY.COM
+Name Server: NS6.DNSMADEEASY.COM
+Name Server: NS7.DNSMADEEASY.COM
+DNSSEC: unsigned
+
+5.)Domain Name: amd.com
+Registry Domain ID: 570887_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-01-14T10:42:16-0800
+Creation Date: 1986-11-17T00:00:00-0800
+Registrar Registration Expiration Date: 2025-11-15T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: Advanced Micro Devices, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Admin Organization: Advanced Micro Devices, Inc.
+Admin State/Province: CA
+Admin Country: US
+Tech Organization: Advanced Micro Devices, Inc.
+Tech State/Province: CA
+Tech Country: US
+Name Server: svl3d.amd.com
+Name Server: atl3d.amd.com
+Name Server: cyb3d.amd.com
+DNSSEC: unsigned
