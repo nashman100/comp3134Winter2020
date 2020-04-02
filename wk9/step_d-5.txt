@@ -1,0 +1,2 @@
+1.) The error I see is that the page was not found, the requested URL was not found on this server.
+2.) The sensitive information that is given away by this page is that the page is running Apache/2.4.29 the server address 165.227.39.116 and the port which is 80

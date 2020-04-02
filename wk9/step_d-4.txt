@@ -1,0 +1,2 @@
+1.) I am able to see different directories that are on the root of the droplet such as backups, mail, local, run 
+2.) This page is giving away directory names so an unauthorized user could use this information to traverse the directories of the droplet 

@@ -1,0 +1,2 @@
+Used basename($path) to stop users from going past html directory 
+Used File_exists() to make sure the file exists before printing to the page. 

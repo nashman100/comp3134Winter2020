@@ -1,0 +1,2 @@
+1.) I see two warnings that are letting me know that there is no file or directory exists 
+2.) This page is giving away some sensitive information such as the fact that certain files dont exist and being able to the the pathway to the files.
