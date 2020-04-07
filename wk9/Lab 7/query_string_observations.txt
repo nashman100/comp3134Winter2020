@@ -1,0 +1,4 @@
+1.) I typed in the word computer and was brought to the page with the definintion for the word computer.
+2.) I typed a random assortment of letters and was brought to a page which said it found no results for the query. 
+3.) I typed in the text into the form and was brought to a search results page with results that were similar to the text input. 
+4.) I added the text after the term= in the url and had the same result as when I searched the text in the form, I was brought to a search results page.
