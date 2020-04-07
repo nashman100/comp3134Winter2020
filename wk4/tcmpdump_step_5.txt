@@ -1,0 +1,52 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -c 5 -XX -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+03:16:24.900322 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 2471859842:2471859950, ack 3585778950, win 320, length 108
+        0x0000:  fe00 0000 0101 e68e 372e 0f7d 0800 4510  ........7..}..E.
+        0x0010:  0094 aa39 4000 4006 c632 a5e3 2774 63eb  ...9@.@..2..'tc.
+        0x0020:  98a5 0016 ec2a 9355 9682 d5ba a506 5018  .....*.U......P.
+        0x0030:  0140 ca6e 0000 5853 bdf5 4549 fee8 80b7  .@.n..XS..EI....
+        0x0040:  1eb1 7d41 8e90 46bd 4a96 8c4d 1b49 0a5a  ..}A..F.J..M.I.Z
+        0x0050:  4b25 c335 80d5 8e78 d59e 5bf2 8d86 329f  K%.5...x..[...2.
+        0x0060:  9a62 dc8d 0379 4f37 3428 060f 4015 d104  .b...yO74(..@...
+        0x0070:  8c43 68a1 342e 21a8 4d13 a364 8fbf fe4d  .Ch.4.!.M..d...M
+        0x0080:  e14b 68ae bd85 88d8 1abb 984a fdf1 1561  .Kh........J...a
+        0x0090:  5a22 17c4 00ee 18c2 2b0c 74a3 fece e4f9  Z"......+.t.....
+        0x00a0:  8206                                     ..
+03:16:24.900379 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 108:144, ack 1, win 320, length 36
+        0x0000:  fe00 0000 0101 e68e 372e 0f7d 0800 4510  ........7..}..E.
+        0x0010:  004c aa3a 4000 4006 c679 a5e3 2774 63eb  .L.:@.@..y..'tc.
+        0x0020:  98a5 0016 ec2a 9355 96ee d5ba a506 5018  .....*.U......P.
+        0x0030:  0140 ca26 0000 39e7 075f a20c e199 dbbd  .@.&..9.._......
+        0x0040:  727b c90c baf1 e9ad fb9f 1083 fc60 6cec  r{...........`l.
+        0x0050:  9ecd f1cd ed74 c898 19c8                 .....t....
+03:16:24.900428 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 144:252, ack 1, win 320, length 108
+        0x0000:  fe00 0000 0101 e68e 372e 0f7d 0800 4510  ........7..}..E.
+        0x0010:  0094 aa3b 4000 4006 c630 a5e3 2774 63eb  ...;@.@..0..'tc.
+        0x0020:  98a5 0016 ec2a 9355 9712 d5ba a506 5018  .....*.U......P.
+        0x0030:  0140 ca6e 0000 6afa 35e9 48a9 e73c a50a  .@.n..j.5.H..<..
+        0x0040:  c53d 3c3e 3590 95f2 ecc8 e3b2 1ec1 3854  .=<>5.........8T
+        0x0050:  ccbe 2452 adc5 3ee4 a18f 39a0 13d4 87f4  ..$R..>...9.....
+        0x0060:  6c39 9494 ecca 139c 154c d543 de29 544c  l9.......L.C.)TL
+        0x0070:  1507 0709 2ce1 9649 48df cecd 8e5b 0601  ....,..IH....[..
+        0x0080:  2f40 927d 4c51 6c43 9108 6321 d4a2 d705  /@.}LQlC..c!....
+        0x0090:  c7cf 43b2 65ad c47a be7e c0c8 6e98 b5f0  ..C.e..z.~..n...
+        0x00a0:  0f76                                     .v
+03:16:24.900465 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 252:288, ack 1, win 320, length 36
+        0x0000:  fe00 0000 0101 e68e 372e 0f7d 0800 4510  ........7..}..E.
+        0x0010:  004c aa3c 4000 4006 c677 a5e3 2774 63eb  .L.<@.@..w..'tc.
+        0x0020:  98a5 0016 ec2a 9355 977e d5ba a506 5018  .....*.U.~....P.
+        0x0030:  0140 ca26 0000 d2b9 0353 a28f 26bd fc00  .@.&.....S..&...
+        0x0040:  fe54 63bf 31dd c404 93d2 a1ca dd96 db9a  .Tc.1...........
+        0x0050:  bd14 1e31 2c6c a46a 412d                 ...1,l.jA-
+03:16:24.901094 IP lamp-s-1vcpu-1gb-tor1-01.54487 > 67.207.67.3.domain: 41577+ [1au] PTR? 165.152.235.99.in-addr.arpa. (56)
+        0x0000:  fe00 0000 0101 e68e 372e 0f7d 0800 4500  ........7..}..E.
+        0x0010:  0054 deb0 4000 4011 07bf a5e3 2774 43cf  .T..@.@.....'tC.
+        0x0020:  4303 d4d7 0035 0040 547b a269 0100 0001  C....5.@T{.i....
+        0x0030:  0000 0000 0001 0331 3635 0331 3532 0332  .......165.152.2
+        0x0040:  3335 0239 3907 696e 2d61 6464 7204 6172  35.99.in-addr.ar
+        0x0050:  7061 0000 0c00 0100 0029 0200 0000 0000  pa.......)......
+        0x0060:  0000                                     ..
+5 packets captured
+28 packets received by filter
+16 packets dropped by kernel

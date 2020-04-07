@@ -1,0 +1,7 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+03:18:05.889988 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 2471869226:2471869270, ack 3585779270, win 320, length 44
+03:18:05.890080 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 44:152, ack 1, win 320, length 108
+03:18:05.890143 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458: Flags [P.], seq 152:188, ack 1, win 320, length 36
+03:18:05.901343 IP CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 44, win 1024, length 0
+03:18:05.901388 IP CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.60458 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 188, win 1023, length 0

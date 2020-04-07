@@ -1,0 +1,19 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -c 5 -A -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:53:07.525255 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58992: Flags [P.], seq 3699964406:3699964514, ack 350615408, win 320, length 108
+E..._.@.@..]..'tc......p.......pP..@.n.......{.....n6[,@....q..~x.....IK.........<*..a....%...~.CJ.P7..v8q.z....I       gthV.Eb...wq0!.B...+...g.....7..g.
+00:53:07.525312 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58992: Flags [P.], seq 108:144, ack 1, win 320, length 36
+E..L_.@.@.....'tc......p...b...pP..@.&..g.....(.c..=.........V..UV..=.....
+.
+00:53:07.525351 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58992: Flags [P.], seq 144:252, ack 1, win 320, length 108
+E..._.@.@..[..'tc......p.......pP..@.n...yT......I....g!G.U....B..3..z....!.N..U/../=`..........UHCyR`.R.S..{[.......9W....A.[..~.....,..wh,..a..8}.
+00:53:07.525389 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58992: Flags [P.], seq 252:288, ack 1, win 320, length 36
+E..L_.@.@.....'tc......p.......pP..@.&...,........m..AY7..'...v.I...+..!
+..A
+00:53:07.526375 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58992: Flags [P.], seq 288:508, ack 1, win 320, length 220
+E..._.@.@.....'tc......p.......pP..@....}R.....t..3..g)._....._..x8fk...$...U....nu...[.).fe.8w.W "     ..=j...R...$.~Q.71.l..  kF.K..j.9TF...|..I.
+0j.8....'y.....d...6'/~..x~.....^....=..cE...;)......+.n......=.`......#CA.)]nz...g%7.E...o..,..... 29.!...-...K.....
+5 packets captured
+9 packets received by filter
+2 packets dropped by kernel

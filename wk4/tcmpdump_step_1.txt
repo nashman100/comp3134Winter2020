@@ -1,0 +1,17 @@
+tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:44:25.145924 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58794: Flags [P.], seq 3736256394:3736256502, ack 2790308910, win 343, length 108
+00:44:25.145989 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58794: Flags [P.], seq 108:144, ack 1, win 343, length 36
+00:44:25.146042 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58794: Flags [P.], seq 144:252, ack 1, win 343, length 108
+00:44:25.146097 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58794: Flags [P.], seq 252:288, ack 1, win 343, length 36
+00:44:25.146614 IP lamp-s-1vcpu-1gb-tor1-01.57163 > 67.207.67.2.domain: 14519+ [1au] PTR? 165.152.235.99.in-addr.arpa. (56)
+00:44:25.147566 IP 67.207.67.2.domain > lamp-s-1vcpu-1gb-tor1-01.57163: 14519 1/0/1 PTR CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com. (125)
+00:44:25.148028 IP lamp-s-1vcpu-1gb-tor1-01.57874 > 67.207.67.2.domain: 31262+ [1au] PTR? 116.39.227.165.in-addr.arpa. (56)
+00:44:25.149458 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58794: Flags [P.], seq 552:756, ack 1, win 343, length 204
+00:44:25.149545 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPEb06ebfdfdb00-CM64777d5eaca0.cpe.net.cable.rogers.com.58794: Flags [P.], seq 792:996, ack 1, win 343, length 204
+00:44:25.149823 IP lamp-s-1vcpu-1gb-tor1-01.53187 > 67.207.67.2.domain: 57276+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+00:44:25.150103 IP 67.207.67.2.domain > lamp-s-1vcpu-1gb-tor1-01.53187: 57276 NXDomain 0/1/1 (120)
+4217 packets captured
+5564 packets received by filter
+1346 packets dropped by kernel
