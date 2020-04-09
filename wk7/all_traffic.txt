@@ -1,0 +1,4 @@
+1.) SSH into your droplet using "ssh droplet_username@droplet_ip_address"
+2.) Use command "date +%Y%m%d_%H%M" to output date and time in the format needed
+3.) Use command "touch all_traffic_YYYYMMDD_HHMM" replace YYYYMMDD_HHMM with the date and time output in the last step
+4.) Use command "sudo tcpdump -i any -c5 -nn -w all_traffic_YYYYMMDD_HHMM" replace all_traffic_YYYYMMDD_HHMM with the name of the file you created in the last step
