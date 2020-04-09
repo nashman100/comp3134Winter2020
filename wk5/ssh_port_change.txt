@@ -1,0 +1,2 @@
+6.) To restart the sshd service you would use the command: "service sshd restart"
+7.) To log into the droplet using a specific port you would use the command: "ssh root@165.227.39.116 -p 2222"-
