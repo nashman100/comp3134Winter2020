@@ -1,0 +1,4 @@
+When I navigated to csfr_form.php and clicked submit it logged me into csfr_action.php 
+as the session variable and the hidden confirmation value matched. But when I navigated to csfr.html
+and clicked submit I was redirected to the csfr_action.php page but didnt log me in as the session variable is non-existant
+in csfr.html.

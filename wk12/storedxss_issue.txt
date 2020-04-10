@@ -1,0 +1,5 @@
+When I navigated to storexss.php on my droplet it opened the 
+file directory_traversal_part1.php as it was in a script tag 
+instead of outputting the text value. This is an issue as this 
+exploit could be used by a hacker to navigate to pages and files 
+that they shouldnt have access to. 
