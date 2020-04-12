@@ -1,0 +1,8 @@
+1.) When I entered Ben it didnt return a result and this was an expected result as the sql query 
+outlines that it should only return rows that have Active = 1 but the user Ben has Active set to equal 0.
+
+2.)When I entered Ben'-- the results for Ben showed even though the SQL query specifically stated that it shouldnt
+as Ben had an Active value of 0 not 1. This result was unexpected.
+
+3.)When I used Ben’ or 1=1 I recieved no results. I believe this was the expected result as the database most likely 
+rerturned no results. 
